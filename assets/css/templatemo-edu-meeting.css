@@ -813,7 +813,7 @@ services
   box-sizing: border-box;
   background: 
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), /* Black overlay */
-    url(https://grcasurendranagar.wordpress.com/wp-content/uploads/2015/12/old-letter-paper-texture-_thumb.jpg?w=640) no-repeat center center; /* Background image */
+    url(../images/small_scroll.jpg) no-repeat center center; /* Background image */
   background-size: cover;
   color: #fff; /* Ensure text is readable */
   backdrop-filter: blur(1px); /* Apply the blur effect */
