@@ -817,6 +817,8 @@ services
   background-size: cover;
   color: #fff; /* Ensure text is readable */
   backdrop-filter: blur(1px); /* Apply the blur effect */
+  color: #fff; /* Ensure text is readable */
+  backdrop-filter: blur(1px); /* Apply the blur effect */
   overflow: hidden; /* Ensure the blur stays within the container */
 }
 
