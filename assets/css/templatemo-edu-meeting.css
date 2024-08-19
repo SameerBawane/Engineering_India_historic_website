@@ -817,6 +817,7 @@ services
 }
 
 .services::before {
+  background: url(https://grcasurendranagar.wordpress.com/wp-content/uploads/2015/12/old-letter-paper-texture-_thumb.jpg?w=640) no-repeat center center;
   content: '';
   position: absolute;
   top: 0;
